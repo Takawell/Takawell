@@ -15,7 +15,7 @@
 ## 🧠 Who is !Taka dev?
 
 codename: "!Taka dev"
-origin: "Indonesia"
+origin: "Unknown"
 roles:
   - Cybersecurity Developer
   - Network Engineer
@@ -31,7 +31,7 @@ specialties:
 ## ⚔️ Main Weapons
 
 ### 🚀 CLAIRE C2 — Ultimate Offensive Engine
-- 🔥 Simulates L4 (504 Gbps) & L7 (1.3M RPS) flood at scale  
+- 🔥 L4 (504 Gbps) & L7 (1.3M RPS) flood at scale  
 - ⚙️ Built with C, Lua, and Python  
 - 👁️ Adaptive payloads, stealth mode, reverse proxy bypass
 
@@ -87,10 +87,3 @@ specialties:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:00ffc8&height=120&section=footer"/>
 </p>
-"""
-
-file_path = "/mnt/data/README_Taka_Dev.txt"
-with open(file_path, "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-file_path
