@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=00FFF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+!Taka+dev+-+Cyber+Engineer.;I+create+botnets+and+shields.;CLAIRE+C2+%F0%9F%9A%80+%7C+CLAIRE+SHIELD+%F0%9F%9B%A1%EF%B8%8F;L4:+504+Gbps+%7C+L7:+1.3M+RPS;This+is+my+domain.+Respect+it." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=00FFF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+!Taka+dev+-+Cyber+Engineer.;I+create+botnets+and+shields.;CLAIRE+C2+%F0%9F%9A%80+%7C+CLAIRE+SHIELD+%F0%9F%9B%A1%EF%B8%8F;L4:+704+Gbps+%7C+L7:+1.3M+RPS;This+is+my+domain.+Respect+it." />
 </p>
 
 ---
