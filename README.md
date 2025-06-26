@@ -23,7 +23,7 @@ roles:
   - DDoS Defense Designer
 specialties:
   - L4-L7 simulation & mitigation
-  - C / Lua / Python low-level stack
+  - C / Lua / Python high-level stack
   - Next.js fullstack systems
 
 ---
