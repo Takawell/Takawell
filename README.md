@@ -4,6 +4,6 @@
 
 ### 🚀 My Project
 
-<p align="center"> <a href="https://github.com/Rehannnaja/Aichinime-full"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehannnaja&repo=Aichow&theme=synthwave" /> </a> </p>
+<p align="center"> <a href="https://github.com/Rehannnaja/Aichinime-full"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rehannnaja&repo=Aichiow&theme=synthwave" /> </a> </p>
 
 ---
