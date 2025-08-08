@@ -4,6 +4,8 @@
 
 ### 🚀 My Project
 
-<p align="center"> <a href="https://github.com/Rehannnaja/Aichiow"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Takawell&repo=Aichiow&theme=synthwave" /> </a> </p>
+<p align="center"> <a href="https://github.com/Takawell/Aichiow/"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Takawell&repo=Aichiow&theme=synthwave" /> </a> </p>
 
 ---
+
+<p align="center"> <a href="https://github.com/Takawell/aichan-bot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Takawell&repo=aichan-bot&theme=synthwave" /> </a> </p>
